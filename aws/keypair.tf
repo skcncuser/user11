@@ -1,0 +1,4 @@
+resource "aws_key_pair" "user11_keypair" {
+key_name = "2dal-user11"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCn+fdRM+yRtUGa6i57MWAN21j0jTEjtdcD3O7vMglwR2KJDO+mzRvkSA6G+pS6gcxfuPJXcco1WIDYV6dRbNP+ccswQEKP3HewoA2qjZI0dMo+2cpkFOXvBjknJDpG0JIAPuwSY1o2/btbykFAK8jF3msVodaNnmXk+vQ0TKpePESAQiAqp8V3DJkiCKy5P4fBLZYnYjMlpc/biVAlu2EyAmhQkIji9fu01dhzAj3hNPIIiGotlN4tyOfYUzNjA4tNW8g0N2xraw8NlIjQ+daz8y3kCnXGPHalc+nqyRLCHgtpugMr95O0uc5/Vn1FxK2FleFBlxzbx8H3jWWgA8bp user11@cc-218325d9-678447d898-nmqt6"
+}
